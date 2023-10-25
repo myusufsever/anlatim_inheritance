@@ -24,6 +24,7 @@ public class D06_Child extends D05_Parent {
     public static void main(String[] args) {
         D06_Child child1 =new D06_Child();
         D06_Child child2=new D06_Child("k");
+        D06_Child child3=new D06_Child(15);
     }
 
 
